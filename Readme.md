@@ -1,5 +1,7 @@
 # vibe-code
 
+
+
 [![npm version](https://badge.fury.io/js/@simple-build%2Fvibe-code.svg)](https://www.npmjs.com/package/@simple-build/vibe-code)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
@@ -7,6 +9,8 @@
 **AI-powered CLI tool that analyzes codebases and generates comprehensive project reports using Google's Gemini LLMs**
 
 Transform any codebase into a beautiful, interactive analysis report in seconds! 🎯
+
+<img width="256" height="256" alt="Simple Logo" src="https://github.com/user-attachments/assets/b7e0f7f5-90c4-47ac-963c-0992800b4e08" />
 
 <video controls src="NPM-Demo1.mp4" title="Title"></video>
 
