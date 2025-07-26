@@ -1,6 +1,5 @@
-# 🚀 vibe-code
-
-[![npm version](https://badge.fury.io/js/vibe-code.svg)](https://badge.fury.io/js/vibe-code)
+# vibe-code
+[![npm version](https://badge.fury.io/js/@simple-build%2Fvibe-code.svg)](https://www.npmjs.com/package/@simple-build/vibe-code)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 
