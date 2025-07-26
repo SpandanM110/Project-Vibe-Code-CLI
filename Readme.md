@@ -1,4 +1,5 @@
 # vibe-code
+
 [![npm version](https://badge.fury.io/js/@simple-build%2Fvibe-code.svg)](https://www.npmjs.com/package/@simple-build/vibe-code)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
@@ -7,8 +8,10 @@
 
 Transform any codebase into a beautiful, interactive analysis report in seconds! 🎯
 
-![vibe-code demo](https://via.placeholder.com/800x400/2563eb/ffffff?text=vibe-code+Interactive+Dashboard)
+<video controls src="NPM-Demo1.mp4" title="Title"></video>
 
+
+**🎥 [Watch the full demo on YouTube →](https://www.youtube.com/watch?v=50ObPdkCrag)**
 ## ✨ Features
 
 - 🤖 **AI-Powered Analysis**: Leverages Google's Gemini LLMs for intelligent code understanding
