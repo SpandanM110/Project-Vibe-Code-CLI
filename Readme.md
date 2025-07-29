@@ -1,5 +1,6 @@
 # vibe-code
 
+<img width="747" height="393" alt="Vibe Code CLI-amplify-dark" src="https://github.com/user-attachments/assets/6b6c0f8a-fc31-4497-99ff-06af522a6cc2" />
 
 
 [![npm version](https://badge.fury.io/js/@simple-build%2Fvibe-code.svg)](https://www.npmjs.com/package/@simple-build/vibe-code)
@@ -14,8 +15,9 @@ Transform any codebase into a beautiful, interactive analysis report in seconds!
 
 <video controls src="NPM-Demo1.mp4" title="Title"></video>
 
+**[Upvote on Peerlist →](https://peerlist.io/spandanm110/project/vibe-code-cli)**
 
-**🎥 [Watch the full demo on YouTube →](https://www.youtube.com/watch?v=50ObPdkCrag)**
+**[Watch the full demo on YouTube →](https://www.youtube.com/watch?v=50ObPdkCrag)**
 ## ✨ Features
 
 - 🤖 **AI-Powered Analysis**: Leverages Google's Gemini LLMs for intelligent code understanding
@@ -139,4 +141,6 @@ The tool automatically:
 - **Export Options**: Multiple format support (JSON, Markdown, HTML)
 - **Search & Filter**: Quick navigation through large codebases
 - **Dark/Light Mode**: Comfortable viewing in any environment
+
+<img width="747" height="393" alt="Vibe Code CLI-supporters-dark" src="https://github.com/user-attachments/assets/da99947f-6ce3-4f45-9da1-6293656acdb9" />
 
